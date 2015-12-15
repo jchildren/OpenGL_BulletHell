@@ -1,0 +1,12 @@
+﻿cl : Command line warning D9030: '/Gm' is incompatible with multiprocessing; ignoring /MP switch
+  Pawn.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  OpenGL_BulletHellApp.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  KeyboardHandler.cpp
+  Fighter.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Actor.cpp
+  Unknown compiler version - please run the configure tests and report the results
+  Generating Code...
+  OpenGL_BulletHell.vcxproj -> E:\Source\Repos\OpenGL_BulletHell\vc2015\Debug\OpenGL_BulletHell.exe
